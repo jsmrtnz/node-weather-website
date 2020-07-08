@@ -1,5 +1,3 @@
-console.log('Cliend side js file is loaded...')
-
 // Example fetching another api
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
 //     response.json().then((data) => {
